@@ -1,0 +1,6 @@
+.env
+artifacts/
+cache/
+out/
+.gas-snapshot
+node_modules/
