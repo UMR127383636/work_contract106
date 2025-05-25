@@ -14,5 +14,6 @@ Slither 运行指令：
 slither .
 
 Foundry Fuzz 运行指令：
-forge test --fuzz-runs 1000
+forge test --fuzz-runs 1000 and
 forge coverage 
+相应的报告截图已放在最终报告中
