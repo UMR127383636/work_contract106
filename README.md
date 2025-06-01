@@ -17,6 +17,6 @@ Foundry Fuzz 运行指令：
 forge test --fuzz-runs 1000 and
 forge coverage 
 
-测试文件：contracts/test/NFTLoanFacilitatorTest.t.sol
+测试文件：contracts/test/NFTLoanFacilitatorTest.t.sol (全部测试在一个文件中）
 
 相应的报告截图已放在最终报告中
