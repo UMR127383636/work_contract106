@@ -14,6 +14,8 @@ Mythril 报告- mythril-report.json and mythril.json
 Slither 运行指令： 
 slither .
 
+slither报告-slither-report.json
+
 Foundry Fuzz 运行指令：
 forge test --fuzz-runs 1000 and
 forge coverage 
