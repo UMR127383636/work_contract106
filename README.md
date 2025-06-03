@@ -7,8 +7,9 @@ docker run --rm `
   mythril/myth analyze /tmp/NFTLoanFacilitator_flat.sol `
     --solv 0.8.12 `
     --execution-timeout 600 `
-    -o json `
-> mythril-report.json
+    -o json `> mythril-report.json
+
+Mythril 报告- mythril-report.json and mythril.json
 
 Slither 运行指令： 
 slither .
